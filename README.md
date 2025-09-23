@@ -67,5 +67,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotiprakash20&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jyotiprakash20)
+<p><img align="center" src="[https://streak-stats.demolab](https://chatgpt.com/c/68d2d79f-7064-8322-ac35-c8357d564132).com?user=jyotiprakash20" alt="GitHub Streak" /></p>
 

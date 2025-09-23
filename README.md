@@ -67,5 +67,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotiprakash20&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="[[https://streak-stats.demolab](https://chatgpt.com/c/68d2d79f-7064-8322-ac35-c8357d564132)](https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638962131streak-stats.png).user=jyotiprakash20" alt="GitHub Streak" /></p>
+<!-- <p><img align="center" src="[[https://streak-stats.demolab](https://chatgpt.com/c/68d2d79f-7064-8322-ac35-c8357d564132)](https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638962131streak-stats.png).user=jyotiprakash20" alt="GitHub Streak" /></p> -->
 

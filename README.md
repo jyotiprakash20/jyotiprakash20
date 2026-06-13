@@ -1,40 +1,40 @@
-# 💫 About Me:
+💫 About Me:
 
-Hi there 👋, I'm **Jyotiprakash Padhi**
+Hi there 👋, I'm Jyotiprakash Padhi
 
-🎓 A passionate **Computer Science & Engineering student** with interests in **Data Science, Machine Learning, Computer Vision, and Full-Stack Development**.
+🎓 A passionate Computer Science & Engineering student with interests in Data Science, Machine Learning, Computer Vision, Data Structures & Algorithms, and Full-Stack Development.
 
 💡 I enjoy building practical solutions that combine software engineering with data-driven insights. I'm always eager to learn new technologies and apply them to solve real-world problems.
 
-🚀 **Projects I've Worked On**
+🚀 Projects I've Worked On
 
-* 🏋️ **Fitness Activity Identifier** – A computer vision application using OpenCV and MediaPipe to recognize human fitness activities in real time.
-* 📦 **Smart Stock** – A MERN-stack inventory management system with real-time stock tracking, analytics, and prediction capabilities.
+🏋️ Fitness Activity Identifier – A computer vision application using OpenCV and MediaPipe to recognize human fitness activities in real time.
+📦 Smart Stock – A MERN-stack inventory management system with real-time stock tracking, analytics, and prediction capabilities.
 
-💻 **Tech Stack**
+💻 Tech Stack
 
-* **Languages:** Python, JavaScript, Java
-* **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, OpenCV, MediaPipe, jQuery
-* **Tools & Technologies:** MySQL, Git, GitHub, Jupyter Notebook
+Languages: Python, JavaScript, Java
+Libraries & Frameworks: Pandas, NumPy, Scikit-learn, OpenCV, MediaPipe, jQuery
+Tools & Technologies: MySQL, Git, GitHub, Jupyter Notebook
 
-🌱 **Currently Learning**
+🌱 Currently Learning
 
-* Data Science & Machine Learning
-* Backend Development
-* System Design
-* Cloud & AI Technologies
+Data Science & Machine Learning
+Data Structures & Algorithms (DSA)
+Computer Vision
+Cloud & AI Technologies
 
-🏆 **Highlights**
+🏆 Highlights
 
-* Participant in NIRMAN 4.0 Hackathon
-* Certified in Artificial Intelligence Primer
-* NCC Senior Division Cadet
+Participant in NIRMAN 4.0 Hackathon
+Certified in Artificial Intelligence Primer
+NCC Senior Division Cadet
 
-🎯 **Goal**
-To build impactful software products, contribute to innovative projects, and continuously grow as a Software Engineer and Data Science enthusiast.
+🎯 Goal
+To build impactful software products, strengthen my problem-solving skills through DSA, and continuously grow as a Software Engineer and Data Science enthusiast.
 
-📫 **Reach me at:**
-**[jyotiprakashpadhi30@gmail.com](mailto:jyotiprakashpadhi30@gmail.com)**
+📫 Reach me at:
+jyotiprakashpadhi30@gmail.com
 
 
 ⚡ *"Always learning, always building, and always ready for the next challenge."* 🚀

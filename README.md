@@ -1,5 +1,37 @@
 # 💫 About Me:
-<br>🔭 I'm currently working on **Data Science and AI-based projects**<br><br>👯 I'm looking to collaborate on **Machine Learning, Data Analytics, and Open Source projects**<br><br>🤝 I'm looking for help with **MLOps, Cloud Computing, and Scalable Backend Systems**<br><br>🌱 I'm currently learning **Advanced Data Science, Machine Learning, and System Design**<br><br>💬 Ask me about **Python, Pandas, NumPy, SQL, Machine Learning, Git, and MERN Stack**<br><br>⚡ Fun fact: **I love exploring new technologies, participating in hackathons, and running 3 km daily.**
+
+Hi there 👋, I'm **Jyotiprakash Padhi**
+
+🎓 Pre-final year Computer Science Engineering student at **SOA University** with a strong interest in **Data Science, Machine Learning, Computer Vision, and Full-Stack Development**. I enjoy building practical solutions that combine software engineering with data-driven insights.
+
+💡 I have hands-on experience working with **Python, SQL, JavaScript, Machine Learning libraries, and MERN Stack technologies**, and I love exploring how technology can solve real-world problems.
+
+🚀 **Projects I've worked on:**
+
+🏋️ **Fitness Activity Identifier** – A computer vision system using OpenCV and MediaPipe to recognize human fitness activities in real time.
+
+📦 **Smart Stock** – A MERN-based inventory management platform with analytics and prediction features for smarter decision-making.
+
+🌱 **Currently learning and improving my skills in:**
+
+* Data Science & Machine Learning
+* Backend Development
+* System Design
+* Cloud & AI Technologies
+
+🏆 **Highlights:**
+
+* Participant in NIRMAN 4.0 Hackathon
+* Certified in Artificial Intelligence Primer
+* NCC Senior Division Cadet
+* Passionate Long-Distance Runner
+
+🎯 My goal is to build impactful software products while continuously growing as a software engineer and data professional.
+
+📫 Reach me at: **[jyotiprakashpadhi30@gmail.com](mailto:jyotiprakashpadhi30@gmail.com)**
+
+⚡ *"Always learning, always building, and always ready for the next challenge."* 🚀
+
 
 
 ## 🌐 Socials:

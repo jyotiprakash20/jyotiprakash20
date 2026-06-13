@@ -2,33 +2,40 @@
 
 Hi there 👋, I'm **Jyotiprakash Padhi**
 
-🎓 Pre-final year Computer Science Engineering student at **SOA University** with a strong interest in **Data Science, Machine Learning, Computer Vision, and Full-Stack Development**. I enjoy building practical solutions that combine software engineering with data-driven insights.
+🎓 A passionate **Computer Science & Engineering student** with interests in **Data Science, Machine Learning, Computer Vision, and Full-Stack Development**.
 
-💡 I have hands-on experience working with **Python, SQL, JavaScript, Machine Learning libraries, and MERN Stack technologies**, and I love exploring how technology can solve real-world problems.
+💡 I enjoy building practical solutions that combine software engineering with data-driven insights. I'm always eager to learn new technologies and apply them to solve real-world problems.
 
-🚀 **Projects I've worked on:**
+🚀 **Projects I've Worked On**
 
-🏋️ **Fitness Activity Identifier** – A computer vision system using OpenCV and MediaPipe to recognize human fitness activities in real time.
+* 🏋️ **Fitness Activity Identifier** – A computer vision application using OpenCV and MediaPipe to recognize human fitness activities in real time.
+* 📦 **Smart Stock** – A MERN-stack inventory management system with real-time stock tracking, analytics, and prediction capabilities.
 
-📦 **Smart Stock** – A MERN-based inventory management platform with analytics and prediction features for smarter decision-making.
+💻 **Tech Stack**
 
-🌱 **Currently learning and improving my skills in:**
+* **Languages:** Python, JavaScript, Java
+* **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, OpenCV, MediaPipe, jQuery
+* **Tools & Technologies:** MySQL, Git, GitHub, Jupyter Notebook
+
+🌱 **Currently Learning**
 
 * Data Science & Machine Learning
 * Backend Development
 * System Design
 * Cloud & AI Technologies
 
-🏆 **Highlights:**
+🏆 **Highlights**
 
 * Participant in NIRMAN 4.0 Hackathon
 * Certified in Artificial Intelligence Primer
 * NCC Senior Division Cadet
-* Passionate Long-Distance Runner
 
-🎯 My goal is to build impactful software products while continuously growing as a software engineer and data professional.
+🎯 **Goal**
+To build impactful software products, contribute to innovative projects, and continuously grow as a Software Engineer and Data Science enthusiast.
 
-📫 Reach me at: **[jyotiprakashpadhi30@gmail.com](mailto:jyotiprakashpadhi30@gmail.com)**
+📫 **Reach me at:**
+**[jyotiprakashpadhi30@gmail.com](mailto:jyotiprakashpadhi30@gmail.com)**
+
 
 ⚡ *"Always learning, always building, and always ready for the next challenge."* 🚀
 
